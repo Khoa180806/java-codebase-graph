@@ -10,7 +10,7 @@ Quy ước: `[ ]` chưa làm · `[~]` đang làm · `[x]` xong (kèm ngày `dd/m
 - [x] P0-T1 🧰 Maven skeleton (24/10)
 - [x] P0-T2 🧰 Dependencies + ADR-001 (25/10)
 - [x] P0-T3 🧰 Logging stderr (26/10)
-- [x] P0-T4 🧰 CI (optional) (26/10)
+- [x] P0-T4 🧰 CI (optional) (27/10)
 - [ ] P0-T5 🧠 5 bài khởi động
 
 ## Phase 1 — Parsing (26–31/10)

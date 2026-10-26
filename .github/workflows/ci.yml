@@ -7,7 +7,7 @@ on:
     branches: [ master, main ]
 
 jobs:
-  build:
+  test:
     name: Build & Test (Java 21)
     runs-on: ubuntu-latest
 
@@ -22,8 +22,8 @@ jobs:
           distribution: 'temurin'
           cache: 'maven'
 
-      - name: Grant execute permission for mvnw
+      - name: Make Maven Wrapper executable
         run: chmod +x mvnw
 
-      - name: Run build and tests
+      - name: Run tests
         run: ./mvnw -B test
