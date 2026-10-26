@@ -1,6 +1,6 @@
 # STATUS — Trạng thái hiện tại
 
-**Hôm nay đang ở:** Phase 0 · Task P0-T4
+**Hôm nay đang ở:** Phase 0 · Task P0-T5
 **Checkpoint:** CP1 07/11 · CP2 13/11 · CP3 21/11 (tag v1.0.0)
 **Chế độ agent:** LEARN MODE
 
@@ -10,7 +10,7 @@ Quy ước: `[ ]` chưa làm · `[~]` đang làm · `[x]` xong (kèm ngày `dd/m
 - [x] P0-T1 🧰 Maven skeleton (24/10)
 - [x] P0-T2 🧰 Dependencies + ADR-001 (25/10)
 - [x] P0-T3 🧰 Logging stderr (26/10)
-- [ ] P0-T4 🧰 CI (optional)
+- [x] P0-T4 🧰 CI (optional) (26/10)
 - [ ] P0-T5 🧠 5 bài khởi động
 
 ## Phase 1 — Parsing (26–31/10)
