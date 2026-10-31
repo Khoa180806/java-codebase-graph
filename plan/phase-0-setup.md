@@ -35,4 +35,4 @@ Trong `src/test/java/.../warmup/` (có thể xoá sau), viết **bằng tay** 5 
 
 ---
 ## Definition of Done Phase 0
-- [ ] `mvn test` xanh · [ ] log ra stderr · [ ] ADR-001 điền bảng version · [ ] 5 bài warm-up tự viết xong · [ ] learning log hôm nay
+- [x] `mvn test` xanh · [x] log ra stderr · [x] ADR-001 điền bảng version · [x] 5 bài warm-up tự viết xong · [x] learning log hôm nay
