@@ -1,6 +1,6 @@
-﻿# STATUS — Trạng thái hiện tại
+# STATUS — Trạng thái hiện tại
 
-**Hôm nay đang ở:** Phase 1 · Task P1-T1
+**Hôm nay đang ở:** Phase 1 · Task P1-T2
 **Checkpoint:** CP1 07/11 · CP2 13/11 · CP3 21/11 (tag v1.0.0)
 **Chế độ agent:** LEARN MODE
 
@@ -14,7 +14,7 @@ Quy ước: `[ ]` chưa làm · `[~]` đang làm · `[x]` xong (kèm ngày `dd/m
 - [x] P0-T5 🧠 5 bài khởi động (31/10)
 
 ## Phase 1 — Parsing (26–31/10)
-- [ ] P1-T1 🧠 Legacy audit
+- [x] P1-T1 🧠 Legacy audit (31/10)
 - [ ] P1-T2 🧠 ProjectScanner
 - [ ] P1-T3 🧠 Parse file → CU
 - [ ] P1-T4 🧠 Parser DTOs
